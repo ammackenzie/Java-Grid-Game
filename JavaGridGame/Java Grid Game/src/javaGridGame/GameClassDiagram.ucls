@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.3" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <interface id="1" language="java" name="getOutOfMySwamp.Observer" project="Semester 2 Coursework- 40091970" 
+    file="/Semester 2 Coursework- 40091970/src/getOutOfMySwamp/Observer.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="261" y="979"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="2" language="java" name="getOutOfMySwamp.GameGUI" project="Semester 2 Coursework- 40091970" 
+    file="/Semester 2 Coursework- 40091970/src/getOutOfMySwamp/GameGUI.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="724" width="211" x="-845" y="308"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="getOutOfMySwamp.Donkey" project="Semester 2 Coursework- 40091970" 
+    file="/Semester 2 Coursework- 40091970/src/getOutOfMySwamp/Donkey.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="444" y="1001"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="getOutOfMySwamp.Enemy" project="Semester 2 Coursework- 40091970" 
+    file="/Semester 2 Coursework- 40091970/src/getOutOfMySwamp/Enemy.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="240" y="761"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="getOutOfMySwamp.Game" project="Semester 2 Coursework- 40091970" 
+    file="/Semester 2 Coursework- 40091970/src/getOutOfMySwamp/Game.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="-429" y="456"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="getOutOfMySwamp.Row" project="Semester 2 Coursework- 40091970" 
+    file="/Semester 2 Coursework- 40091970/src/getOutOfMySwamp/Row.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="-141" y="274"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="getOutOfMySwamp.EnemyFactory" project="Semester 2 Coursework- 40091970" 
+    file="/Semester 2 Coursework- 40091970/src/getOutOfMySwamp/EnemyFactory.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="643" y="793"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="getOutOfMySwamp.EnemyFighter" project="Semester 2 Coursework- 40091970" 
+    file="/Semester 2 Coursework- 40091970/src/getOutOfMySwamp/EnemyFighter.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="656" y="240"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="getOutOfMySwamp.Creature" project="Semester 2 Coursework- 40091970" 
+    file="/Semester 2 Coursework- 40091970/src/getOutOfMySwamp/Creature.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="186" y="469"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="getOutOfMySwamp.OgrePassive" project="Semester 2 Coursework- 40091970" 
+    file="/Semester 2 Coursework- 40091970/src/getOutOfMySwamp/OgrePassive.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="479" y="561"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="getOutOfMySwamp.SaveGame" project="Semester 2 Coursework- 40091970" 
+    file="/Semester 2 Coursework- 40091970/src/getOutOfMySwamp/SaveGame.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="-710" y="98"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="getOutOfMySwamp.Ogre" project="Semester 2 Coursework- 40091970" 
+    file="/Semester 2 Coursework- 40091970/src/getOutOfMySwamp/Ogre.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="-31" y="791"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="getOutOfMySwamp.Square" project="Semester 2 Coursework- 40091970" 
+    file="/Semester 2 Coursework- 40091970/src/getOutOfMySwamp/Square.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="-158" y="443"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="getOutOfMySwamp.OgreGrumpy" project="Semester 2 Coursework- 40091970" 
+    file="/Semester 2 Coursework- 40091970/src/getOutOfMySwamp/OgreGrumpy.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="640" y="562"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="getOutOfMySwamp.Swamp" project="Semester 2 Coursework- 40091970" 
+    file="/Semester 2 Coursework- 40091970/src/getOutOfMySwamp/Swamp.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="-152" y="69"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="getOutOfMySwamp.Snake" project="Semester 2 Coursework- 40091970" 
+    file="/Semester 2 Coursework- 40091970/src/getOutOfMySwamp/Snake.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="457" y="847"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="getOutOfMySwamp.Parrot" project="Semester 2 Coursework- 40091970" 
+    file="/Semester 2 Coursework- 40091970/src/getOutOfMySwamp/Parrot.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="454" y="708"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="18" language="java" name="getOutOfMySwamp.Observable" project="Semester 2 Coursework- 40091970" 
+    file="/Semester 2 Coursework- 40091970/src/getOutOfMySwamp/Observable.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="-23" y="999"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="19" language="java" name="getOutOfMySwamp.FightBehaviour" project="Semester 2 Coursework- 40091970" 
+    file="/Semester 2 Coursework- 40091970/src/getOutOfMySwamp/FightBehaviour.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="573" y="396"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="20" language="java" name="getOutOfMySwamp.MovementBehaviour" project="Semester 2 Coursework- 40091970" 
+    file="/Semester 2 Coursework- 40091970/src/getOutOfMySwamp/MovementBehaviour.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="270" y="195"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <association id="21">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="22" name="newSwamp">        
+        <position height="0" width="0" x="-43" y="-4"/>      
+      </attribute>      
+      <multiplicity id="23" minimum="0" maximum="1">        
+        <position height="0" width="0" x="-43" y="-4"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="24">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="25" name="theSwamp">        
+        <position height="0" width="0" x="-38" y="6"/>      
+      </attribute>      
+      <multiplicity id="26" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="-38" y="6"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="27">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="28" name="theRow">        
+        <position height="0" width="0" x="-1" y="27"/>      
+      </attribute>      
+      <multiplicity id="29" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="-1" y="27"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="30">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="9"/>  
+  </generalization>  
+  <realization id="31">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="20"/>  
+  </realization>  
+  <generalization id="32">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="4"/>  
+  </generalization>  
+  <generalization id="33">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="9"/>  
+  </generalization>  
+  <association id="34">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="35" name="loadedGame">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="36" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="37">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="19"/>  
+  </realization>  
+  <association id="38">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="39" name="fightBehaviour">        
+        <position height="0" width="0" x="13" y="24"/>      
+      </attribute>      
+      <multiplicity id="40" minimum="0" maximum="1">        
+        <position height="0" width="0" x="13" y="24"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="41">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="42" name="enemies">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="43" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="44">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="19"/>  
+  </realization>  
+  <realization id="45">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="18"/>  
+  </realization>  
+  <generalization id="46">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="4"/>  
+  </generalization>  
+  <association id="47">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="48" name="theOgre">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="49" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="50">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="51" name="savedGame">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="52" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="53">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="54" name="save">        
+        <position height="0" width="0" x="-58" y="28"/>      
+      </attribute>      
+      <multiplicity id="55" minimum="0" maximum="1">        
+        <position height="0" width="0" x="-58" y="28"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="56">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="4"/>  
+  </generalization>  
+  <realization id="57">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="19"/>  
+  </realization>  
+  <realization id="58">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="1"/>  
+  </realization>  
+  <association id="59">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="60" name="theGame">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="61" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
